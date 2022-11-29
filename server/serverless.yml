@@ -86,7 +86,7 @@ functions:
     handler: src/lambda/auth/rs256Auth0Authorizer.handler
 
   Auth:
-    handler: src/lambda/auth/auth0Authorizer.handler
+    handler: src/lambda/auth/hs256Auth0Authorizer.handler
 
   GetGroups:
     handler: src/lambda/http/getGroups.handler
