@@ -61,6 +61,7 @@ WebSocket allows to implement bi-directional communication between a web applica
 <br/>
 
 ### **Case 3: Using custom auth and JWT (what we'll use)**
+  > <img src="images\jwt-flow.png">
   > <img src="images\custom-authorizer.png">
   > <img src="images\custom-authorization-2.png">
   > <img src="images\oauth-origin.png">
